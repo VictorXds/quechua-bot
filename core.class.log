@@ -1,0 +1,63 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51943221638@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB05A1AACBECFA3826EC6',
+    participant: undefined
+  },
+  messageTimestamp: 1693224749,
+  pushName: 'Victor Hugo Joaquin',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '51943221638'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51943221638@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB05A1AACBECFA3826EC6',
+    participant: undefined
+  },
+  messageTimestamp: 1693224750,
+  pushName: 'Victor Hugo Joaquin',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '51943221638'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51943221638@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D520F82D0C312671BB',
+    participant: undefined
+  },
+  messageTimestamp: 1693224761,
+  pushName: 'Victor Hugo Joaquin',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Siguiente',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Siguiente',
+  from: '51943221638'
+}
